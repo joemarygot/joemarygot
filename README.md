@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noobessional aka Joemar Ygot
+- 👋 Hi, I’m Noobessional aka Joemar Ygot
 - 👀 I’m interested in UI/UX Design and Coding
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on designing a UI
